@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'NMGitViewControllers_Example' do
+  pod 'NMGitViewControllers', :path => '../'
+
+  target 'NMGitViewControllers_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
