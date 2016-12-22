@@ -1,0 +1,16 @@
+PODS:
+  - NMGitViewControllers (0.1.0)
+
+DEPENDENCIES:
+  - NMGitViewControllers (from `../`)
+
+EXTERNAL SOURCES:
+  NMGitViewControllers:
+    :path: ../
+
+SPEC CHECKSUMS:
+  NMGitViewControllers: 66d7a9425e66c42cbfe787754c9689338a30945f
+
+PODFILE CHECKSUM: 768696bee8089eb7980507c5d424e445a32a84ca
+
+COCOAPODS: 1.1.1

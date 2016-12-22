@@ -1,0 +1,22 @@
+{
+  "name": "NMGitViewControllers",
+  "version": "0.1.0",
+  "summary": "A short description of NMGitViewControllers.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/NMGitViewControllers",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Nithin M Das": "nithin@voltella.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/NMGitViewControllers.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "NMGitViewControllers/Classes/**/*"
+}

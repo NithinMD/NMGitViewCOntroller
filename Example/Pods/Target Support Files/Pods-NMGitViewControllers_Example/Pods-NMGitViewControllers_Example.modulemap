@@ -1,0 +1,6 @@
+framework module Pods_NMGitViewControllers_Example {
+  umbrella header "Pods-NMGitViewControllers_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
